@@ -1,6 +1,6 @@
 # Abbinamento Cico-LoSai
 
-Le risorse contenute in questa cartella permettono di replicare la preparazione del dataset che abbina il (Campione Integrato delle Comunicazioni Obbligatorie - CICO)[http://dati.lavoro.gov.it/microdati-la-ricerca] (Ministero del Lavoro e delle Politiche Sociali) e il Longitudinal Sample INPS - LoSAI (INPS).
+Le risorse contenute in questa cartella permettono di replicare la preparazione del dataset che abbina il [Campione Integrato delle Comunicazioni Obbligatorie - CICO](http://dati.lavoro.gov.it/microdati-la-ricerca) (Ministero del Lavoro e delle Politiche Sociali) e il Longitudinal Sample INPS - LoSAI (INPS).
 
 Un'applicazione dell'abbinamento è presentata, congiuntamente a un'appendice metodological in inglese, nel paper Berton et al. (2022).
 
