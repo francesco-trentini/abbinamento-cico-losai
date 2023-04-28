@@ -11,7 +11,7 @@
 clear all
 
 /* Merge anagrafica e rapporti di lavoro  - solo dopo 2010*/
-use "${id}/rl_finale_consolidato.dta",clear
+use "${id}/anagrafica_2018.dta",clear
 
 rename rapporto_datainizio _dataInizio
 rename rapporto_datacessazione _dataCessazione
